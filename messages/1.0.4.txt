@@ -1,8 +1,8 @@
-Version 1.0.0
+Version 1.0.4
 =================================================================================
 
 Materialize - White Panels Addon
-https://github.com/saadq/materialize-white-panels
+https://github.com/saadq/Materialize-White-Panels
 
 ******************************************************************************
 
