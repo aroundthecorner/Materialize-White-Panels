@@ -6,4 +6,4 @@ https://github.com/saadq/materialize-white-panels
 
 ******************************************************************************
 
-This package allow you to enable the white panels and inputs inside the Materialize themes for Sublime Text 3.
+- Added White panels for every theme in Materialize
