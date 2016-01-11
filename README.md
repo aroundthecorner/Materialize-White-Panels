@@ -2,4 +2,4 @@
 
 This addon allow you to enable the white panels and inputs inside Materialize.
 
-For more info see check the [Materialize](https://github.com/saadq/Materialize)
+For more info see check the [Materialize](https://github.com/saadq/Materialize) repo.
